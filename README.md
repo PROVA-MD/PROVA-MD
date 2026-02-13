@@ -2,75 +2,69 @@
   <img src="https://i.imgur.com/LyHic3i.gif"/>
 </p>
 
-<h1 align="center">
-  <span style="font-size:55px;
-               font-weight:bold;
-               background: linear-gradient(90deg,#ff00cc,#3333ff,#00ffcc,#33ff33,#ffcc00);
-               -webkit-background-clip:text;
-               color:transparent;">
-    ✨ PROVA-MD ✨
-  </span>
+<h1 align="center" style="font-size:55px; font-weight:bold; color:#fff;">
+  ✨ PROVA-MD ✨
 </h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/jxdffn.jpg" width="850"
-       style="border-radius:35px; box-shadow:0 0 60px #ff00ff;">
+       style="border-radius:35px; box-shadow:0 0 60px #ffd700;">
 </p>
 
-<p align="center">
-  <b style="font-size:18px;">Multi-Device WhatsApp Bot with Powerful Automation</b><br>
-  <b>Maintained by PakTechX 🚀</b>
+<p align="center" style="color:#fff; font-size:18px;">
+  Multi-Device WhatsApp Bot with Powerful Automation <br>
+  Maintained by <b>PakTechX 🚀</b>
 </p>
 
 ---
 
-## 🌈 ⭐ FORK • STAR • SUPPORT
+## ⭐ Fork • Star • Support
 
 <p align="center">
   <a href="https://github.com/PakTechX/PROVA-MD/fork">
-    <img src="https://img.shields.io/badge/🍴_FORK_REPO-ff1493?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🍴_FORK_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   <a href="https://github.com/PakTechX/PROVA-MD/stargazers">
-    <img src="https://img.shields.io/badge/⭐_STAR_REPO-ffd700?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/⭐_STAR_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🔐 ⚡ GET PAIR CODE
+## 🔑 Get Pair Code (Session)
 
 <p align="center">
   <a href="https://prova-md.onrender.com">
-    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-00ffff?style=for-the-badge&logo=whatsapp&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 🚀 DEPLOY NOW (HEROKU)
+## 🚀 Deploy Now (Heroku)
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">
-    <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-8a2be2?style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-FFD700?style=for-the-badge&logo=heroku&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## 📲 WHATSAPP CONNECT
+## 📲 WhatsApp Connect
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">
-    <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📢_JOIN_CHANNEL-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
   <a href="https://api.whatsapp.com/send?phone=+923298605468&text=Hey">
-    <img src="https://img.shields.io/badge/💬_CONTACT_OWNER-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💬_CONTACT_OWNER-FFD700?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-## ⚡ FEATURES
+## ⚡ Features
 
 | Feature | Status |
 |--------|--------|
@@ -83,20 +77,16 @@
 
 ---
 
-## 🛡️ WARNING & DISCLAIMER
+## 🛡️ Warning & Disclaimer
 
 > Not affiliated with WhatsApp. Misuse may cause bans.  
-> For learning & fun only. Give proper credits.
->
+> For learning & fun only. Give proper credits.  
 > Owner not responsible for misuse.
 
 ---
 
-<h2 align="center"
-    style="background: linear-gradient(90deg,#00ffcc,#ff00cc);
-           -webkit-background-clip:text;
-           color:transparent;">
-  🌟 THANKS FOR USING PROVA-MD 🌟
+<h2 align="center" style="color:#FFD700;">
+  🌟 THANK YOU FOR USING PROVA-MD 🌟
 </h2>
 
 <p align="center">

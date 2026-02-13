@@ -1,15 +1,3 @@
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #ff0cc, #33ff, #0fcc, #3ff33, #fcc00); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-size: 45px; 
-               font-weight: bold;">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    ✨PROVA-𝐌𝐃✨
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  </span>
-</h1>
-
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif"/>
 </p>

@@ -21,119 +21,103 @@
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">PakTechX</span> 🚀</b>
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>
+
+<h1 align="center">✨ PROVA-MD ✨</h1>
+
+<p align="center">
+  <img src="https://files.catbox.moe/jxdffn.jpg" width="820" style="border-radius:30px;box-shadow:0 0 40px #8A2BE2;">
+</p>
+
+<p align="center">
+  <b>Multi-Device WhatsApp Bot with Powerful Automation, Media Tools & Group Features</b><br>
+  Crafted & Maintained by <b>PakTechX</b> 🚀
 </p>
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## ⭐ 𝐅𝐎𝐑𝐊 & 𝐒𝐓𝐀𝐑
+## ⭐ Fork & Star the Repository
+
 <p align="center">
   <a href="https://github.com/PakTechX/PROVA-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fork-Repository-ff00ff?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <!-- ⭐ AUTO-UPDATE STAR BADGE (SPACING FIXED) -->
   <a href="https://github.com/PakTechX/PROVA-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/PakTechX/PROVA-MD?style=for-the-badge&color=gold&logo=github" />
+    <img src="https://img.shields.io/github/stars/PakTechX/PROVA-MD?style=for-the-badge&color=gold&logo=github"/>
   </a>
 </p>
 
-<p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
+<p align="center"><b>Don’t forget to Fork & Star ⭐ before using!</b></p>
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 🔑 𝐆𝐄𝐓 𝐏𝐀𝐈𝐑
+## 🔑 Get Pair Code (Session)
+
 <p align="center">
-  <a href="prova-md.onrender.com">
-    <img src="https://img.shields.io/badge/Get-PAIR_CODE-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://prova-md.onrender.com">
+    <img src="https://img.shields.io/badge/Get-Pair_Code-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-<p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>
+
+<p align="center">Generate your Session ID required for deployment.</p>
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 🚀 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 𝐍𝐎𝐖 
+## 🚀 Deploy on Heroku
+
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white"/>
   </a>
 </p>
-<p align="center">🪸 𝐃𝐄𝐏𝐋𝐎𝐘𝐄 ᴏɴ ʜᴇʀᴏᴋᴜ 🐍🍷</p>
-
-<!-- ❌ RENDER SECTION DELETED AS REQUESTED -->
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 📡 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐒
+## 📡 WhatsApp Links
+
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O">
-    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+923298605468&text=➪𝐇𝐄𝐘𓆩🐍🍷🌹'">
-    <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://api.whatsapp.com/send?phone=+923298605468&text=Hey">
+    <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
-<p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for updates.</p>
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## ⚡𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
-- ✅ MEDIA DOWNLOAD 📺 | Many cool features 🍷  
-- ✅ GROUP FUCHER 𓆩🐍 | Many cool features 🍷  
-- ✅ AUTO REPLY 🍨 | Many cool features 🍷  
-- ✅ AUTO RECORDING HYPING | Many cool features 🍷  
-✨ MORE FEATURES ON THIS BOARD ✨  
+## ⚡ Features
+
+- ✅ Media Download System
+- ✅ Advanced Group Management
+- ✅ Auto Reply & Auto React
+- ✅ Auto Recording / Presence
+- ✅ AI & Utility Commands
+- ✅ Easy Deployment
+- ✅ Regular Updates
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑
-❌ NOTICE: This bot is NOT affiliated with WhatsApp Inc.
+## 🛡️ Reminder
 
-⚡ WARNING: Any misuse, spam, or violation of rules may result 
-   in your number being permanently banned from using this bot.
+> This project is **not affiliated with WhatsApp Inc.**
 
-📌 Please use this bot responsibly and follow the guidelines 
-   to avoid any issues.  
-
-- 🛡️ Owner is not responsible for any misuse.  
+Misuse, spam, or rule violations may result in bans.  
+Use responsibly. Owner is not responsible for misuse.
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## 📝 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
-🎯 This bot is made for **Learning & Fun purposes only**.
+## 📝 Disclaimer
 
-❌ Do not misuse, sell, or use without giving proper credits.
+This bot is made for **learning and fun purposes**.
 
-✨ Enjoy responsibly and respect the creator’s work.  
+Do not sell or redistribute without credits.
 
 ---
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h2 align="center">
-  🌈✨ ᴛʜᴀɴᴋ ғᴏʀ ᴜsɪɴɢ <span style="color:#00FFFF">PROVA-𝐌𝐃</span>✨🌈
-</h2>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h2 align="center">🌈 Thank You for Using PROVA-MD 🌈</h2>
 
-## Hi there 👋
-
-<!--
-**PROVA-MD/PROVA-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.imgur.com/LyHic3i.gif"/>
+</p>

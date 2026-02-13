@@ -1,7 +1,5 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
+  <span style="background: linear-gradient(to right, #ff0cc, #33ff, #0fcc, #3ff33, #fcc00); 
                -webkit-background-clip: text; 
                color: transparent; 
                font-size: 45px; 

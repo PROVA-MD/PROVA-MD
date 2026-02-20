@@ -1,6 +1,6 @@
-name: ADEEL-MD
+name: PROVA-MD
 services:
-  - name: adeel_md-service
+  - name: prova-md-service
     type: web
     ports:
       - 5000

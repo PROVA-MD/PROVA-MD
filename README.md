@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://prova-md.onrender.com">
-    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-F00?style=for-the-badge&logo=whatsapp&logoColor=black&gradient=gold,#00ff"/>
+    <img src="https://img.shields.io/badge/🔑_GET_SESSION_ID-F00?style=for-the-badge&logo=whatsapp&logoColor=black&gradient=gold,#0ff"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/PakTechX/PROVA-MD">
-    <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-F00?style=for-the-badge&logo=heroku&logoColor=black&gradient=gold,#ff0"/>
+    <img src="https://img.shields.io/badge/🚀_DEPLOY_HEROKU-F00?style=for-the-badge&logo=heroku&logoColor=black&gradient=gold,#fff"/>
   </a>
 </p>
 
